@@ -1,6 +1,6 @@
-# Tech Summit
+# Tech Summit Event
 
-This is a Tech Summit Website built using HTML, CSS, JavaScript, SCSS, and Bootstrap. It's designed to be responsive and user-friendly.
+This is a Time Countdown Tech Summit Event Website built using HTML, CSS, JavaScript, SCSS, and Bootstrap. It's designed to be responsive and user-friendly.
 
 # Features
 
