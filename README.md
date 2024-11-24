@@ -4,6 +4,7 @@ This is a Tech Summit Website built using HTML, CSS, JavaScript, SCSS, and Boots
 
 # Features
 
+- **Time Countdown Feature.**
 - **Fully responsive design.**
 - **Clean and user-friendly interface.**
 - **Interactive features powered by JavaScript.**
@@ -19,4 +20,4 @@ This is a Tech Summit Website built using HTML, CSS, JavaScript, SCSS, and Boots
 
 
 # Live Demo
-Go to link [Tech Summit](https://sakib-hossain23.github.io/Summit)
+Go to link [Tech Summit](https://sakib-hossain23.github.io/Event)
