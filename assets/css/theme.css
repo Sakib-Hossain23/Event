@@ -140,7 +140,7 @@ body{font-family:'Roboto', sans-serif;-webkit-font-smoothing:antialiased;-moz-os
 }
 
 .footer {
-  background: #031716;
+  background: linear-gradient(180deg, #031117, #010202);
 }
 
 .venue-section{
@@ -258,7 +258,7 @@ body {
 /* Responsive Media Queries */
 @media (max-width: 767px) {
   .header {
-      background: rgba(20, 28, 37, 0.95);
+      background: #0b0b0b;
   }
 
   .header .navbar-toggler {
