@@ -18,6 +18,3 @@ This is a Time Countdown Tech Summit Event Website built using HTML, CSS, JavaSc
 - **Bootstrap**
 - **JavaScript**
 
-
-# Live Demo
-Go to link [Tech Summit](https://sakib-hossain23.github.io/Event)
